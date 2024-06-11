@@ -1,7 +1,7 @@
 {
-  "name": "laputa-renderer",
-  "version": "1.1.1",
-  "description": "laputa renderer",
+  "name": "abbct",
+  "version": "0.1",
+  "description": "abbct components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yotcap/laputa-renderer.git"
+    "url": "git+ssh://git@github.com/Skyla-Yu/abbct.git"
   },
   "keywords": [
-    "renderer"
+    "abbct"
   ],
-  "author": "jxni",
+  "author": "Skyla.Yu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yotcap/laputa-renderer/issues"
+    "url": "https://github.com/Skyla-Yu/abbct/issues"
   },
   "homepage": "https://github.com/yotcap/laputa-renderer#readme",
   "dependencies": {
@@ -55,5 +55,6 @@
   "peerDependencies": {
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
-  }
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
